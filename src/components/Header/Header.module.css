@@ -1,0 +1,28 @@
+.header {
+  background-color: #1a407b;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100vw;
+  position: fixed;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row;
+}
+
+.user {
+  display: flex;
+  flex-direction: row;
+}
+
+.auth {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+main {
+    padding-top: 6em;
+}
